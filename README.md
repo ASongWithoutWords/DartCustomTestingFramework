@@ -2,7 +2,7 @@
 A testing framework that runs in the Dartium browser and is compatible with the Webstorm IDE.
 
 ## Motivation
-The Webstorm IDE crashes with Dart's test library, and the simples solution 
+The Webstorm IDE crashes with Dart's test library. The simplest solution 
 has been to write an alternative framework.
 
 ## Sample Usage
